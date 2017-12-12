@@ -1,8 +1,9 @@
 {
-  "latestVersion": "1.0.1",
-  "latestVersionCode": 1,
+  "latestVersion": "1.0.3",
+  "latestVersionCode": 3,
   "url": "https://play.google.com/store/apps/details?id=com.ezcred.ezapp.dealer",
   "releaseNotes": [
-    "- Initial release"
+    "- Initial release",
+    "- Timeout fixes"
   ]
 }
